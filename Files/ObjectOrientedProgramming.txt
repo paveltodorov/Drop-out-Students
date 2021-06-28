@@ -1,0 +1,4 @@
+Georgi Ivanov,81000,10,2017-01-01,Nica job.,10,2017-02-01,,28,2017-01-01,,23,2017-01-01,,56,2017-01-01,,49,2017-01-01,,
+Maria Dimova,81001,5,2017-01-01,Pay attention to the virtual programming.,6,2017-02-01,You should ckeck the input.,20,2017-01-01,,28,2017-01-01,,46,2017-01-01,,43,2017-01-01,,
+Kristian Hristov,81002,10,2017-12-01,The homeworks works well. You can give better names to your classes.,8,2017-02-01,,,,,20,2017-01-01,,51,2017-01-01,,23,2017-01-01,,
+Gergana Borisova,81003,,,,,2,2017-01-01,Bad OOP design. Consider a ploymorphic solution.,5,2017-01-01,,12,2017-01-01,,8,2017-01-01,,
